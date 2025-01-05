@@ -1,4 +1,3 @@
-import math
 n = int(input("Masukan nilai n: "))
 total = 0
 i = 1
