@@ -1,4 +1,3 @@
-import math
 print("Angka Ganjil dari 1-10: ")
 i = 1
 
